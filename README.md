@@ -5,6 +5,7 @@
 
 
 ![Yure1 GitHub stats](https://github-readme-stats.vercel.app/api?username=yure1m&show_icons=true&theme=shadow_red) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yure1m&theme=shadow_red)
 - ✏ Ferramentas que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="yure-html" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
