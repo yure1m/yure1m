@@ -4,8 +4,8 @@
 - 💻 Estudando o desenvolvimento Full-Stack (com foco em C#, MySQL e HTML5/CSS).
 
 
-  ![Yure1 GitHub stats](https://github-readme-stats.vercel.app/api?username=yure1m&show_icons=true&theme=shadow_red) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yure1m&theme=shadow_red)
+  ![Yure1 GitHub stats](https://github-readme-stats.vercel.app/api?username=yure1m&show_icons=true&theme=shadow_blue)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yure1m&theme=shadow_blue)
 
 ##
 - ✏ Ferramentas que utilizo:
