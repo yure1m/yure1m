@@ -19,6 +19,7 @@
 </div>
 
 ##
+- 📱 Minhas Redes Sociais
 <div> 
   <a href ="https://instagram.com/yure1_mm">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
