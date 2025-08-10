@@ -1,7 +1,7 @@
 ### Olá mundo! Me chamo Yure :D
 ##
 - 📖 Cursando Sistemas de Informação no Centro Universitário Salesiano e Técnico de Informática no CEET Vasco Coutinho.
-- 💻 Estudando o desenvolvimento Full-Stack (com foco em C#, MySQL e HTML5/CSS).
+- 💻 Estudando o desenvolvimento Full-Stack.
 
 
   ![Yure1 GitHub stats](https://github-readme-stats.vercel.app/api?username=yure1m&show_icons=true&theme=shadow_blue&locale=pt-br)
@@ -15,16 +15,14 @@
   <img align="center" alt="yure-js" height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="yure-python" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yure-csharp" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="yure-mysql" height="160" width="170"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>          
+  <img align="center" alt="yure-java" height="125 width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="yure-mysql" height="160" width="170"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> 
+  
 </div>
 
 ##
-- 📱 Minhas Redes Sociais
-<div> 
-  <a href ="https://instagram.com/yure1_mm">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href ="https://www.twitch.tv/yurezin_1">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+- 📱 Formas de me contatar:
+<div>
   <a href ="mailto:yureb312@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/yure-piteira-da-cruz-367b48354/">
