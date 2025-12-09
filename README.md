@@ -2,7 +2,6 @@
 ##
 - 📖 Cursando Sistemas de Informação no Centro Universitário Salesiano
 
-##
 - ✏ Ferramentas que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="yure-.NET-CORE" height="160" width="170" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/> 
