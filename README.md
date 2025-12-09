@@ -1,11 +1,6 @@
 ### Olá mundo! Me chamo Yure :D
 ##
-- 📖 Cursando Sistemas de Informação no Centro Universitário Salesiano e Técnico de Informática no CEET Vasco Coutinho.
-- 💻 Estudando o desenvolvimento Full-Stack.
-
-
-  ![Yure1 GitHub stats](https://github-readme-stats.vercel.app/api?username=yure1m&show_icons=true&theme=shadow_blue&locale=pt-br)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yure1m&theme=shadow_blue&locale=pt-br)
+- 📖 Cursando Sistemas de Informação no Centro Universitário Salesiano
 
 ##
 - ✏ Ferramentas que utilizo:
